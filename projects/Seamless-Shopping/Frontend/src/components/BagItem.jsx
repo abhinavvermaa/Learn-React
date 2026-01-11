@@ -35,6 +35,7 @@ const BagItem = ({ item }) => {
       </div>
 
       <div className="remove-from-cart" onClick={handleRemoveItem}>
+        ❌
       </div>
     </div>
   );

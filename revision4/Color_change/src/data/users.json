@@ -1,0 +1,17 @@
+[
+  { "id": "USR-001", "name": "Alice Johnson", "email": "alice.j@email.com", "projects": 12, "status": "Active" },
+  { "id": "USR-002", "name": "Bob Smith", "email": "bob.smith@email.com", "projects": 8, "status": "Active" },
+  { "id": "USR-003", "name": "Carol White", "email": "carol.w@email.com", "projects": 15, "status": "Active" },
+  { "id": "USR-004", "name": "David Brown", "email": "david.b@email.com", "projects": 5, "status": "Inactive" },
+  { "id": "USR-005", "name": "Emma Davis", "email": "emma.d@email.com", "projects": 9, "status": "Active" },
+  { "id": "USR-006", "name": "Frank Miller", "email": "frank.m@email.com", "projects": 6, "status": "Active" },
+  { "id": "USR-007", "name": "Grace Wilson", "email": "grace.w@email.com", "projects": 11, "status": "Active" },
+  { "id": "USR-008", "name": "Henry Taylor", "email": "henry.t@email.com", "projects": 4, "status": "Inactive" },
+  { "id": "USR-009", "name": "Ivy Anderson", "email": "ivy.a@email.com", "projects": 13, "status": "Active" },
+  { "id": "USR-010", "name": "Jack Thomas", "email": "jack.t@email.com", "projects": 7, "status": "Active" },
+  { "id": "USR-011", "name": "Kathy Moore", "email": "kathy.m@email.com", "projects": 10, "status": "Active" },
+  { "id": "USR-012", "name": "Leo Martin", "email": "leo.m@email.com", "projects": 3, "status": "Inactive" },
+  { "id": "USR-013", "name": "Nina Clark", "email": "nina.c@email.com", "projects": 14, "status": "Active" },
+  { "id": "USR-014", "name": "Oscar Lewis", "email": "oscar.l@email.com", "projects": 2, "status": "Inactive" },
+  { "id": "USR-015", "name": "Paula Young", "email": "paula.y@email.com", "projects": 9, "status": "Active" }
+]
